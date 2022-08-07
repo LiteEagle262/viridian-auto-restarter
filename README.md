@@ -1,3 +1,5 @@
 # viridian-auto-restarter
 
-i make this later
+simple restarter to restart it after a X amount of time
+
+timer in seconds
